@@ -33,27 +33,6 @@
 	  <a href="#"><img alt="Swift" src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white"></a>
 </p>
 
-## Operating Systems
-<p align = "center">
-  <a href="#"><img alt="Apple" src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white"></a>
-  <a href="#"><img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"></a>
-</p>
-
-
-## Databases and Cloud hosting
-
-<p align = "center">
-    <a href="#"><img alt="Firebase" src="https://img.shields.io/static/v1?style=for-the-badge&message=Firebase&color=222222&logo=Firebase&logoColor=FFCA28&label="></a>
-</p> 
-
-## Software and Tools
-<p align = "center">
-  <a href="#"><img alt="Git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"></a>
-  <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"></a>
-	<a href="#"><img alt="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"></a>
-	<a href="#"><img alt="Xcode" src="https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white"></a>
-</p>
-
 
 ## Random Dev Quote
 
