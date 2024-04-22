@@ -1,4 +1,4 @@
-/**
+<>
 <p align="center">
   <img align="center" src = "https://readme-typing-svg.herokuapp.com/?font=Comic+Sans+MS&size=24&duration=3000&pause=500&color=8000FF&width=550&lines=%F0%9F%92%A5Passionated%20Full%20Stack%20AI%20Developer%E2%9A%A1;7%20years%20of%20Hands-on%20Experience">
 </p>
@@ -13,7 +13,7 @@
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=devinspire-gitch&&show_icons=true&theme=tokyonight" style="width: 50%; height: 200px;"/>&nbsp;&nbsp;&nbsp;
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=devinspire-gitch&theme=tokyonight&layout=compact" style="width: 50%; height: 200px;"/>
 </p>
-**/
+<>
 ## Programming Languages, Frameworks and Libraries
 
 <p align = "center">
