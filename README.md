@@ -13,7 +13,7 @@
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=devinspire-gitch&&show_icons=true&theme=tokyonight" style="width: 50%; height: 200px;"/>&nbsp;&nbsp;&nbsp;
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=devinspire-gitch&theme=tokyonight&layout=compact" style="width: 50%; height: 200px;"/>
 </p> --->
-## Programming Languages, Frameworks and Libraries
+<!-- ## Programming Languages, Frameworks and Libraries
 
 <p align = "center">
 	<a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></a>
@@ -32,7 +32,7 @@
      <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"></a>
 	  <a href="#"><img alt="Swift" src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white"></a>
 </p>
-
+--->
 
 ## Random Dev Quote
 
@@ -40,6 +40,7 @@
  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia" alt="randomquote" />
  </p>
  
+ <!--
 ## Connect with Me
 
 
@@ -51,3 +52,4 @@
  <p align="center">
     <img src="https://komarev.com/ghpvc/?username=devinspire-gitch&color=blue&style=for-the-badge" alt="devinspire-gitch" />
  </p> --->
+ 
